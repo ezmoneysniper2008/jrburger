@@ -11,9 +11,9 @@
 }
 
 .pgh {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: 10px;
-    font-weight: 450;
+    font-weight: 600;
 }
 
 .body12 {
@@ -46,4 +46,32 @@
     position: absolute;
     top: 220px;
     margin-left: calc(5% + 5px);
+}
+
+.container5 {
+    text-align: center;
+    position: absolute;
+    top: 437px;
+    margin-left: calc(5% + 5px);
+}
+
+.container6 {
+    text-align: center;
+    position: absolute;
+    top: 437px;
+    margin-left: calc(60% + 15px);
+}
+
+.container7 {
+    text-align: center;
+    position: absolute;
+    top: 650px;
+    margin-left: calc(5% + 5px);
+}
+
+.container8 {
+    text-align: center;
+    position: absolute;
+    top: 650px;
+    margin-left: calc(60% + 15px);
 }
